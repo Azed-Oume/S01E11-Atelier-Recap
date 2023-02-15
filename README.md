@@ -1,6 +1,6 @@
 # S01E11-Atelier-Recap
 
-# *SITE DE DEMONSTRATION*  - [Acceuil](./Acceuil) - [Projets](./Projets) - [CV](./CV) - [Contact](./Contact)
+# *SITE DE DEMONSTRATION*  - [Acceuil](./README.md) - [Projets](./Projets.md) - [CV](./CV.md) - [Contact](./Contact.md)
 
 ![Site de démonstration](./img/la_dev_2.jpg)
 
@@ -16,5 +16,5 @@
 
 
 
-- [Acceuil](./Acceuil.md) - [Projets](./Projets.md) - [CV](./CV.md) - [Contact](./Contact.md)
+- [Acceuil](./README.md) - [Projets](./Projets.md) - [CV](./CV.md) - [Contact](./Contact.md)
 

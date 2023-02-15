@@ -1,6 +1,6 @@
-# SITE DE DEMONSTRATION  - [Acceuil](./Acceuil.md) - [Projets](./Projets.md) - [CV](./CV.md) - [Contact](./Contact.md)
+# SITE DE DEMONSTRATION  - [Acceuil](./README.md) - [Projets](./Projets.md) - [CV](./CV.md) - [Contact](./Contact.md)
 
 ## Le développeur web junior en formation.
 
-- [Acceuil](./Acceuil.md) - [Projets](./Projets.md) - [CV](./CV.md) - [Contact](./Contact.md)
+- [Acceuil](./README.md) - [Projets](./Projets.md) - [CV](./CV.md) - [Contact](./Contact.md)
 
