@@ -4,5 +4,5 @@
 
 ## Le développeur web junior en formation.
 
-- [Acceuil](./Acceuil) - [Projets](./Projets) - [CV](./CV) - [Contact](./Contact)
+- [Acceuil](./Acceuil.md) - [Projets](./Projets.md) - [CV](./CV.md) - [Contact](./Contact.md)
 
